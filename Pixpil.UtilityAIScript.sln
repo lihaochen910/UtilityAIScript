@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixpil.UtilityAIScript", "Pixpil.UtilityAIScript\Pixpil.UtilityAIScript.csproj", "{C5FB70DE-1FDA-4A70-B386-82E76AE0CBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixpil.UtilityAIScript.Test", "Pixpil.UtilityAIScript.Test\Pixpil.UtilityAIScript.Test.csproj", "{128DCEA1-EC31-419E-9F6C-8D9969A4D399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixpil.UtilityAI", "Pixpil.UtilityAI\Pixpil.UtilityAI.csproj", "{02ADBD82-4FA0-42CA-B884-7D46D4866784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FB70DE-1FDA-4A70-B386-82E76AE0CBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FB70DE-1FDA-4A70-B386-82E76AE0CBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FB70DE-1FDA-4A70-B386-82E76AE0CBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FB70DE-1FDA-4A70-B386-82E76AE0CBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128DCEA1-EC31-419E-9F6C-8D9969A4D399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128DCEA1-EC31-419E-9F6C-8D9969A4D399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128DCEA1-EC31-419E-9F6C-8D9969A4D399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128DCEA1-EC31-419E-9F6C-8D9969A4D399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02ADBD82-4FA0-42CA-B884-7D46D4866784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02ADBD82-4FA0-42CA-B884-7D46D4866784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02ADBD82-4FA0-42CA-B884-7D46D4866784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02ADBD82-4FA0-42CA-B884-7D46D4866784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
