@@ -1,6 +1,6 @@
 # UtilityAIScript
 
-受到mock BTScript的启发，基于Nez.AI.UtilityAI修改的UtilityAI脚本语言
+受到mock [BTScript](https://github.com/tommo/mock)的启发，基于Nez.AI.UtilityAI修改的UtilityAI脚本语言
 
 ## 目录
 
