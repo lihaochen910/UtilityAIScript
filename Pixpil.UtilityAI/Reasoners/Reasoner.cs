@@ -38,7 +38,7 @@ namespace Pixpil.AI.UtilityAI {
 		}
 		
 #if DEBUG
-		public string DebugTypeName() {
+		protected string DebugTypeName() {
 			var input = GetType().Name;
 			if ( input.EndsWith( "Reasoner`1", StringComparison.OrdinalIgnoreCase ) ) {
 				return input.Substring( 0, input.Length - "Reasoner`1".Length ).TrimEnd();
@@ -63,6 +63,7 @@ namespace Pixpil.AI.UtilityAI {
 					PrintIndent(); builder.AppendLine( $"default:" );
 					baseConsideration.DebugDump( builder, PrintIndent, ref level );
 				}
+			level--;
 				
 				builder.AppendLine();
 				
